@@ -1,6 +1,6 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.msixbundle  filter=lfs diff=lfs merge=lfs -text
-*.appinstaller filter=lfs diff=lfs merge=lfs -text   # often small XML, but include if yours are large
+*.appinstaller filter=lfs diff=lfs merge=lfs -text
 *.appx        filter=lfs diff=lfs merge=lfs -text
 *.appxbundle  filter=lfs diff=lfs merge=lfs -text
 *.msix filter=lfs diff=lfs merge=lfs -text
